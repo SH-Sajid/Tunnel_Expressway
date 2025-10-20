@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="Circle.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="830" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6556" topLine="105" />
+		</Cursor>
+		<Folding>
+			<Collapse line="37" />
+			<Collapse line="43" />
+			<Collapse line="61" />
+			<Collapse line="79" />
+			<Collapse line="180" />
+			<Collapse line="216" />
+			<Collapse line="250" />
+			<Collapse line="275" />
+			<Collapse line="305" />
+			<Collapse line="408" />
+			<Collapse line="497" />
+			<Collapse line="586" />
+			<Collapse line="615" />
+			<Collapse line="634" />
+			<Collapse line="653" />
+			<Collapse line="662" />
+			<Collapse line="698" />
+			<Collapse line="717" />
+			<Collapse line="737" />
+			<Collapse line="755" />
+			<Collapse line="766" />
+			<Collapse line="785" />
+			<Collapse line="918" />
+			<Collapse line="1051" />
+			<Collapse line="1067" />
+			<Collapse line="1082" />
+			<Collapse line="1100" />
+			<Collapse line="1214" />
+			<Collapse line="1240" />
+			<Collapse line="1287" />
+			<Collapse line="1336" />
+			<Collapse line="1382" />
+			<Collapse line="1421" />
+			<Collapse line="1466" />
+			<Collapse line="1514" />
+			<Collapse line="1560" />
+			<Collapse line="1627" />
+			<Collapse line="1648" />
+			<Collapse line="1663" />
+			<Collapse line="1690" />
+			<Collapse line="1700" />
+			<Collapse line="1738" />
+			<Collapse line="1755" />
+			<Collapse line="1764" />
+			<Collapse line="1781" />
+			<Collapse line="1828" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
